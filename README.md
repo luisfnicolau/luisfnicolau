@@ -19,12 +19,16 @@
 ![Static Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-
+  
 <div id="badges">
   <a href="https://www.linkedin.com/in/luis-felipe-nicolau/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
+</div>  
+
+Meu website: https://luisfnicolau.my.canva.site/
+
+
 
 Estrutura do repositório
 
