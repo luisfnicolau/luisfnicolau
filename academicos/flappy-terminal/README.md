@@ -109,5 +109,6 @@ Você pode modificar as seguintes constantes para personalizar o jogo:
 
 
 **Contribuintes**
-Luis Felipe Nicolau
+Luis Felipe Nicolau  
+Giovanna Nascimento Chaves
 
