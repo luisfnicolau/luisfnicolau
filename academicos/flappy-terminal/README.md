@@ -108,6 +108,7 @@ Você pode modificar as seguintes constantes para personalizar o jogo:
 **Divirta-se! 🎮**
 
 
-**Contribuintes**
-Luis Felipe Nicolau
+**Contribuintes**  
+Luis Felipe Nicolau  
+Marcos Vinícius da Silva
 
